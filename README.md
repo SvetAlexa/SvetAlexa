@@ -3,7 +3,7 @@
 </div>
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=000000&center=true&random=false&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B0%D0%BD%D0%B0" alt="Typing SVG" /></a></h1>
 
-### :woman_technologist: Обо мне:
+### &#128172; Обо мне:
 
 - &#128640; хочу развиваться в веб-разработке и быть частью команды, которая увлеченно идет к общей цели.
 
@@ -27,3 +27,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma " width="40" height="40"/>&nbsp;
 </div>
+
+![](https://komarev.com/ghpvc/?username=SvetAlexa&style=flat-square&color=green)
