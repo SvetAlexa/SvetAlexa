@@ -35,6 +35,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SvetAlexa&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SvetAlexa)](https://git.io/streak-stats)
+
 ---
  ### &#128236; Связаться со мной:
 <div style="right">
