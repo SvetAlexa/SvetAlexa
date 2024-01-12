@@ -5,11 +5,11 @@
 
 ### &#128172; Обо мне:
 
-- &#128640; хочу развиваться в веб-разработке и быть частью команды, которая увлеченно идет к общей цели.
+- &#128640; хочу развиваться в веб-разработке и быть частью команды, которая увлеченно идет к общей цели
 
-- &#9889; ценю советы более опытных коллег.
+- &#9889; ценю советы более опытных коллег
 
-- &#129488; в свободное время читаю книги и статьи по веб-разработке, решаю задачи на CodeWars.
+- &#129488; в свободное время читаю книги и статьи по веб-разработке, решаю задачи на CodeWars
 
 - &#128064; изучаю TypeScript <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="20" height="20"/>&nbsp;
 
@@ -28,4 +28,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma " width="40" height="40"/>&nbsp;
 </div>
 
+---
+### &#128200; Немного статистики:
+
 ![](https://komarev.com/ghpvc/?username=SvetAlexa&style=flat-square&color=green)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SvetAlexa&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+ ### &#128236; Связаться со мной:
+<div style="right">
+  <p><img src="https://cdn-icons-png.flaticon.com/128/906/906377.png" height="25" align="center" alt="Telegram" title="Telegram" style="right" />  https://t.me/SvetAlexxa</p>
+  <p><img src="https://github.com/SvetAlexa/SvetAlexa/assets/125512868/3c069134-725a-4bb5-967e-569361615dcb" height="25" align="center" alt="email" title="email" style="right" />  svetalexxa@yandex.ru</p
+</div>
+
